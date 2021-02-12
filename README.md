@@ -1,1 +1,3 @@
 The "ideas" repository for the raywenderlich.com book Mastering Git
+
+add somme
